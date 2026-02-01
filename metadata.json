@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Coconut Guard - Tiruchengode",
+  "description": "A smart diagnostic tool for coconut farmers in Tiruchengode to identify pests, get expert-verified treatments, and find nearby agricultural supplies in Tamil and English.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
